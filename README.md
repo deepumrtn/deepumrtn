@@ -1,10 +1,26 @@
-**👋 Hiya!!!! I'm Deepu @deepumrtn**
---------------
-💻 Works at @GitHub, as Support Engineer 111
+<span style="font-size:1.5em"><b>👋 Hello, I’m Deepu (@deepumrtn)!</b></span>
+---
+💼 Support Engineer III @ GitHub
 
-▶️ Focused on providing assistance on GitHub so that it can impact people for the better!!!
+Passionate about empowering the GitHub community by providing expert support and solutions that make a difference.
 
-💬 Talk to me about 🏏, 🥘, 🎵 and of course - CODINGGGGGG!!!
+---
+🌟 What I Do
+- 🛠️ Help developers and teams get the most out of GitHub
+- 💬 Advocate for collaboration, open source, and innovation
+- 🚀 Always eager to learn and share knowledge
+
+----
+🎯 Interests
+- 🏏 Cricket enthusiast
+- 🚴‍♂️ Cycling lover
+- 🏋️‍♂️ Fitness & gym enthusiast
+- 🥘 Food lover
+- 🎵 Music aficionado
+
+-----
+
+✨ Let's connect, collaborate, and make the world a better place—one line of code at a time!
 
 <!---
 deepumrtn/deepumrtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
